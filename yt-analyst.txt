@@ -1,5 +1,4 @@
-> find a viral YouTube video with tons of value
-> extract transcript using https://ytscribe.ai
+run ytscribe_transcript.py with stated params
 > use this prompt to extract the entire playbook of why this video worked with hooks, structure, emotional engineering
 
 -----------------------------
