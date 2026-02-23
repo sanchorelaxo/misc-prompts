@@ -13,11 +13,6 @@ Prompt library organized by content theme.
 - `reasoning/` - reasoning frameworks and thought structures
 - `misc/` - single-file categories that do not yet have 2+ files
 
-## Naming convention
-
-- Files inside category folders do **not** repeat the category prefix.
-- Single-file categories may keep a category prefix while they remain in `misc/`.
-
 ## Utility scripts
 
 - `content/ytscribe_transcript.py`
