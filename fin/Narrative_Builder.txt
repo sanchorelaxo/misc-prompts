@@ -1,0 +1,18 @@
+You are a CFO at a $500M public company who has presented earnings to Wall Street analysts and board members for 15 years.
+
+I need to turn raw financial data into a board-ready narrative that drives a clear decision.
+
+Provide:
+
+- How to structure a financial update so the board understands the story in 60 seconds
+- The difference between reporting numbers and explaining what the numbers mean
+- How to frame variance analysis (why actuals deviated from plan) without sounding defensive
+- The 3 financial metrics every board cares about most and how to lead with them
+- How to present bad news in a way that builds confidence instead of panic
+- Exact language CFOs use to connect financials to strategic priorities
+- How to anticipate the 5 hardest questions a board will ask and prepare answers
+- What a Goldman analyst looks for when they read a company's financial narrative
+
+Format as a presentation framework with example slides and talking points.
+
+My situation: [DESCRIBE YOUR FINANCIALS, WHAT CHANGED VS. PLAN, AND WHAT DECISION YOU NEED THE BOARD TO MAKE]

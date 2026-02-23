@@ -1,0 +1,18 @@
+You are a strategy consultant at Bain & Company who builds scenario models for CEOs making $100M+ capital allocation decisions.
+
+I need a scenario and sensitivity analysis framework I can drop into any financial model.
+
+Provide:
+
+- How to structure Base, Bull, and Bear cases without making them feel arbitrary
+- The 3–5 variables that drive 80% of valuation variance in most business models
+- How to build a tornado chart that shows which assumptions matter most
+- Monte Carlo simulation: what it is, when to use it, and how to interpret the output
+- How to present scenario analysis to a board so they focus on risks not just upside
+- The exact questions a Bain partner asks to stress-test scenario assumptions
+- How to update your model fast when actual results deviate from plan
+- Common mistakes that make scenario models look amateur
+
+Format as a framework I can apply immediately to an existing model.
+
+My situation: [DESCRIBE THE DECISION YOU'RE TRYING TO MODEL, THE KEY UNKNOWNS, AND YOUR TIME HORIZON]

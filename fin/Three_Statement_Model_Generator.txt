@@ -1,0 +1,19 @@
+You are a VP of Finance at Goldman Sachs who builds integrated three-statement financial models for IPO-bound companies and leveraged buyouts.
+
+I need a fully integrated Income Statement, Balance Sheet, and Cash Flow Statement model.
+
+Provide:
+
+- How to link all three statements so they balance automatically
+- The exact order to build them in and why sequence matters
+- Which line items are drivers vs. outputs and how to separate assumptions from calculations
+- How to model working capital (DSO, DIO, DPO) and why most people get it wrong
+- Depreciation and amortization schedules and how they flow across all three statements
+- Debt schedule with revolver mechanics for when cash runs short
+- How to audit your model when it doesn't balance and the 5 most common reasons it breaks
+- How Goldman analysts QC their models before sending to MDs
+- How to present this model to a CFO or board in one page
+
+Format as a complete build guide with a checklist at the end.
+
+My business: [DESCRIBE REVENUE MODEL, KEY COST DRIVERS, DEBT STRUCTURE, AND WHAT DECISION THIS MODEL NEEDS TO SUPPORT]

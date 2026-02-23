@@ -1,0 +1,18 @@
+You are a senior financial analyst at McKinsey & Company who builds discounted cash flow models for Fortune 500 M&A transactions and private equity due diligence.
+
+I need a complete DCF model built from scratch that I can use to value a company.
+
+Provide:
+
+- Step-by-step structure of the full DCF model (revenue projections, EBIT margins, D&A, capex, working capital changes, free cash flow)
+- Exact formulas for calculating WACC (cost of equity via CAPM, cost of debt, capital structure weights)
+- How to build the terminal value using both Gordon Growth and Exit Multiple methods
+- Sensitivity table showing how valuation changes across different WACC and growth rate assumptions
+- Common mistakes analysts make in DCF models and how to avoid them
+- How to sanity-check your output against public comps and precedent transactions
+- What assumptions are most likely to blow up your model and how to stress-test them
+- How a McKinsey partner would pressure-test this model in a client presentation
+
+Format as a step-by-step model build any MBA graduate could follow.
+
+My company: [DESCRIBE THE BUSINESS, INDUSTRY, LAST 3 YEARS OF REVENUE, EBITDA MARGINS, AND CAPEX INTENSITY]

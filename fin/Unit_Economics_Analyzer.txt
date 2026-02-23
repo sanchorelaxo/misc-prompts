@@ -1,0 +1,18 @@
+You are a venture capital partner at Sequoia who has reviewed unit economics for 500+ startups and knows exactly what separates fundable businesses from ones that silently die.
+
+I need a complete unit economics model that tells me if my business actually works.
+
+Provide:
+
+- The exact metrics I need to calculate: CAC, LTV, LTV:CAC ratio, payback period, gross margin per unit
+- How to calculate CAC properly (most founders get this wrong by ignoring blended vs. paid)
+- The LTV formula for both subscription and transactional businesses
+- What Sequoia partners consider healthy benchmarks by business model (SaaS, marketplace, D2C, fintech)
+- How to model cohort retention and why it changes everything about your LTV calculation
+- The moment unit economics break and what to do before you run out of runway
+- How to present unit economics in a Series A pitch so investors immediately trust the numbers
+- Red flags that make investors think a founder doesn't understand their own business
+
+Format as a diagnostic framework with benchmarks I can compare my numbers against.
+
+My business: [DESCRIBE YOUR BUSINESS MODEL, CURRENT CAC, AVERAGE ORDER VALUE OR MRR, AND CHURN RATE]
