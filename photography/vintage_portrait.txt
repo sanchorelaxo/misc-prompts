@@ -1,0 +1,21 @@
+# Generate Vintage Portrait Photography
+
+**Source:** God of Prompt (FREE)
+**Category:** Midjourney, Photography, Realistic Photography
+
+## Description
+Generate hyper-realistic photographs with this AI prompt, featuring detailed subject portraits, event settings, vintage film aesthetics, and professional award-winning composition.
+
+## Prompt
+
+```
+[SUBJECT DESCRIPTION], eye contact with camera, background is a [EVENT SETTING], she is holding a glass of champagne, 1999, provia Fujifilm, highly detailed, in the style of hyper-realistic, photo-realistic techniques, award-winning --chaos 40 --ar 3:4 --exp 50 --raw --sref 1468140782 170932194 217014387 --profile --stylize 300
+```
+
+## Variables
+
+- `[SUBJECT DESCRIPTION]` - Description of the subject/person
+- `[EVENT SETTING]` - The event/location background setting
+
+---
+*Extracted from https://www.godofprompt.ai/prompt-library*

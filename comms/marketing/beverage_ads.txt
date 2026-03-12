@@ -1,0 +1,122 @@
+# Create Beverage Advertisements
+
+**Source:** God of Prompt (FREE)
+**Category:** Nano Banana, Marketing, Products
+
+## Description
+Create vibrant beverage advertisements with this AI prompt, featuring product photography, lifestyle scenes, splash effects, and modern urban branding elements.
+
+## Prompt
+
+```json
+{
+  "Objective": "Create a vibrant 3×2 advertisement for [PRODUCT NAME 1] [BEVERAGE TYPE], presenting an everyday soft drink with a stylish, high-quality background and energetic lifestyle aesthetic.",
+  "Canvas": {
+    "Aspect_Ratio": "16:9",
+    "Grid_Structure": "3×2 equal panels",
+    "Orientation": "Landscape",
+    "Use_Case": [
+      "Beverage marketing campaigns",
+      "Social media ads",
+      "Billboard displays",
+      "Retail promotional visuals"
+    ]
+  },
+  "Product_Description": {
+    "Category": "Carbonated Soft Drink",
+    "Packaging_Type": "Slim aluminum can with bold graphic design",
+    "Flavor": "Classic cola with citrus twist",
+    "Features": [
+      "Cold refreshing carbonation",
+      "Matte-finish can design",
+      "Bold logo typography",
+      "Everyday grab-and-go drink"
+    ]
+  },
+  "Background_Design": {
+    "Environment": "Modern urban rooftop setting",
+    "Surface": "Concrete slab with subtle texture",
+    "Accent_Elements": [
+      "Ice cubes scattered around can",
+      "Light water droplets",
+      "Soft sunset sky gradient",
+      "Minimal city skyline silhouette"
+    ],
+    "Lighting": "Golden hour sunlight with cool reflective highlights",
+    "Mood": ["Cool", "Refreshing", "Modern"]
+  },
+  "Panels": [
+    {
+      "Panel_Number": 1,
+      "Title": "Hero Can Shot",
+      "Description": "[PRODUCT NAME 2] can centered upright with condensation droplets.",
+      "Visual_Details": {
+        "Camera_Angle": "Low-angle for bold presence",
+        "Mood": ["Bold", "Refreshing"]
+      }
+    },
+    {
+      "Panel_Number": 2,
+      "Title": "Open & Fizz Moment",
+      "Description": "Close-up of soda can being opened with visible fizz.",
+      "Visual_Details": {
+        "Lighting": "Backlit to highlight carbonation",
+        "Mood": ["Dynamic", "Crisp"]
+      }
+    },
+    {
+      "Panel_Number": 3,
+      "Title": "Ice & Splash Detail",
+      "Description": "Soda splash with ice cubes frozen mid-air.",
+      "Visual_Details": {
+        "Lighting": "High-speed capture lighting",
+        "Mood": ["Energetic", "Cold"]
+      }
+    },
+    {
+      "Panel_Number": 4,
+      "Title": "Lifestyle Moment",
+      "Description": "Young adult holding soda during casual rooftop hangout.",
+      "Visual_Details": {
+        "Lighting": "Warm sunset glow",
+        "Mood": ["Relaxed", "Social"]
+      }
+    },
+    {
+      "Panel_Number": 5,
+      "Title": "Can Texture Close-Up",
+      "Description": "Macro shot of aluminum texture and condensation.",
+      "Visual_Details": {
+        "Depth_of_Field": "Ultra-shallow",
+        "Mood": ["Fresh", "Cold"]
+      }
+    },
+    {
+      "Panel_Number": 6,
+      "Title": "Graphic Brand Finish",
+      "Description": "Can centered against bold color-block sunset gradient.",
+      "Visual_Details": {
+        "Lighting": "Clean studio lighting",
+        "Mood": ["Modern", "Eye-catching"]
+      }
+    }
+  ],
+  "Branding": {
+    "Product_Name": "[PRODUCT NAME 3]",
+    "Brand_Personality": "Energetic, bold, youthful",
+    "Color_Palette": [COLOR PALETTE],
+    "Typography": "Bold modern sans-serif"
+  }
+}
+```
+
+## Variables
+
+- `[PRODUCT NAME 1]` - Primary product name
+- `[BEVERAGE TYPE]` - Type of beverage (cola, energy drink, etc.)
+- `[PRODUCT NAME 2]` - Alternative product name reference
+- `[PRODUCT NAME 3]` - Tertiary product name reference
+- `[COLOR PALETTE]` - Brand color palette
+
+---
+*Extracted from https://www.godofprompt.ai/prompt-library*

@@ -1,0 +1,69 @@
+# Create Smartphone Fashion Portrait Collages
+
+**Source:** God of Prompt (FREE)
+**Category:** Nano Banana, Photography, Realistic Photography
+
+## Description
+Create stunning smartphone fashion portrait collages with this AI prompt, featuring multiple poses, natural lighting, and modern editorial styling for social media.
+
+## Prompt
+
+```json
+{
+  "scene_type": "smartphone fashion portrait series",
+  "composition": {
+    "layout": "4-photo grid collage",
+    "camera": "smartphone photography",
+    "framing": [
+      "full body standing",
+      "crouching pose",
+      "casual seated pose",
+      "upper body portrait"
+    ],
+    "angle": "eye-level, natural perspective",
+    "aspect_ratio": "1:1 collage"
+  },
+  "subject": {
+    "gender": "female",
+    "age": "early 20s",
+    "aesthetic": "extremely beautiful, sensual, candid",
+    "appearance": {
+      "skin_tone": "smooth light complexion",
+      "face": "soft feminine features, natural symmetry, bright smile",
+      "expression": "playful, warm, confident, subtly sensual",
+      "eyes": "expressive, gentle gaze",
+      "hair": [HAIR DESCRIPTION],
+      "makeup": "natural glam, dewy skin, soft blush, subtle lip tint"
+    },
+    "outfit": [OUTFIT ENSEMBLE],
+    "pose_style": "relaxed, candid, playful fashion poses",
+    "body_language": "confident yet soft, natural movements, gentle sensual elegance"
+  },
+  "environment": [BACKGROUND SETTING],
+  "style": {
+    "photography_type": "smartphone editorial fashion",
+    "visual_tone": "minimalist, airy, modern",
+    "mood": "candid, sensual elegance, fresh and confident",
+    "color_palette": "white, denim blue, soft gray",
+    "contrast": "low to medium",
+    "grain": "very light natural grain"
+  },
+  "rendering": {
+    "realism": "ultra-realistic",
+    "detail_level": "high skin and fabric texture detail",
+    "sharpness": "high",
+    "depth_of_field": "natural",
+    "post_processing": "minimal, clean, slightly soft finish"
+  },
+  "atmosphere": "modern, youthful, effortless beauty, subtle sensual charm"
+}
+```
+
+## Variables
+
+- `[HAIR DESCRIPTION]` - Description of hairstyle (e.g., "long flowing dark hair", "messy beach waves")
+- `[OUTFIT ENSEMBLE]` - Description of clothing/outfit
+- `[BACKGROUND SETTING]` - Description of the environment/background
+
+---
+*Extracted from https://www.godofprompt.ai/prompt-library*

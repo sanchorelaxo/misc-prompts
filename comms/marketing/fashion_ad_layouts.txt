@@ -1,0 +1,59 @@
+# Design Premium Fashion Advertisement Layouts
+
+**Source:** God of Prompt (FREE)
+**Category:** Nano Banana, Marketing, Advertisements
+
+## Description
+Design premium fashion advertisements with this AI prompt, featuring hero product imagery, brand storytelling, detailed grid layouts, and professional studio photography elements.
+
+## Prompt
+
+```json
+{
+  "Objective": "Create a premium 3:4 [BRAND NAME 1] [GARMENT TYPE 1] advertisement featuring an artistic slogan at the top, the brand name beneath it, a large hero product occupying the upper half, and a 2×2 grid in the lower half showing multiple angles and brand details.",
+  "Canvas": {
+    "Aspect_Ratio": "3:4",
+    "Orientation": "Portrait",
+    "Layout_Structure": {
+      "Top_Section": "Slogan + Brand Name",
+      "Upper_Half": "Large Hero Product Image",
+      "Lower_Half": "2×2 Grid"
+    },
+    "Use_Case": [
+      "Fashion campaign poster",
+      "Instagram fashion post",
+      "Retail display visual",
+      "Lookbook cover"
+    ]
+  },
+  "Typography_Section": {
+    "Slogan": {
+      "Text": "Timeless Style. Effortless Confidence.",
+      "Placement": "Very top center",
+      "Typography_Style": "Elegant artistic serif with high-fashion spacing",
+      "Treatment": "Subtle emboss effect or soft shadow",
+      "Color": "Deep forest green or muted charcoal",
+      "Mood": ["Inspirational", "Sophisticated"]
+    },
+    "Brand_Name": {
+      "Text": "[BRAND NAME 2]",
+      "Placement": "Below slogan, above hero product",
+      "Typography_Style": "Clean luxury sans-serif with wide letter spacing",
+      "Weight": "Bold",
+      "Color": "Signature brand color",
+      "Mood": ["Iconic", "Recognizable"]
+    }
+  }
+}
+```
+
+## Variables
+
+- `[BRAND NAME 1]` - Primary brand name for the advertisement
+- `[GARMENT TYPE 1]` - Type of clothing item being advertised
+- `[BRAND NAME 2]` - Secondary brand name display
+- `[BRAND NAME 3]` - Tertiary brand reference
+- `[GARMENT TYPE 2]` - Alternative garment type reference
+
+---
+*Extracted from https://www.godofprompt.ai/prompt-library*

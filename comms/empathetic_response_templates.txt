@@ -1,0 +1,78 @@
+# Craft Empathetic Response Templates
+
+**Source:** God of Prompt (FREE)
+**Category:** ChatGPT, Claude, Gemini, Customer Service, Issue Resolution
+
+## Description
+Create empathetic customer service response templates with this AI prompt, including acknowledgment phrases, active listening techniques, resolution steps, and interactive training simulations.
+
+## Prompt
+
+```
+##PHASE 1: Analyzing Common Scenarios
+- **Objective:** Understand frequent customer service issues to empathize with customers.
+- **Your Input Needed:** None
+- **Actions:**
+1. Identify 5-7 common issue types using customer service data (e.g., billing disputes, technical issues).
+2. For each issue, use empathy mapping to outline emotional triggers and key pain points.
+3. Categorize issues based on scenario frequency and complexity.
+- **Success Looks Like:** A clearly defined list of scenarios with emotional insights ready for template development.
+- **Ready for next? Type "continue"**
+
+##PHASE 2: Template Development
+- **Objective:** Craft empathetic response templates for identified scenarios.
+- **Your Input Needed:** None
+- **Actions:**
+1. Create 2-3 template variations per scenario.
+2. Structure each with an opening acknowledgment, reflective listening phrases, clear solutions, and a call-to-action.
+3. Ensure the language is warm, validating, and supportive, while remaining professional and concise (150-200 words).
+- **Success Looks Like:** A set of adaptable, empathetic templates for each common issue.
+- **Ready for next? Type "continue"**
+
+##PHASE 3: Incorporating Active Listening
+- **Objective:** Enhance templates with active listening techniques.
+- **Your Input Needed:** None
+- **Actions:**
+1. Embed techniques such as paraphrasing, open-ended questions, and text-based non-verbal cues.
+2. Train agents to mirror customer sentiments accurately without interrupting.
+3. Simplify psychology terms to enhance agent understanding and application.
+- **Success Looks Like:** Enhanced templates that demonstrate active listening and empathy, improving agent capacity to de-escalate situations.
+- **Ready for next? Type "continue"**
+
+##PHASE 4: Simulation Creation
+- **Objective:** Develop real-world training simulations using crafted templates.
+- **Your Input Needed:** None
+- **Actions:**
+1. Generate scripted dialogues for each template: start with a customer complaint and include agent responses.
+2. Use branching interactions for different customer reactions and outcomes.
+3. Ensure each interaction ends with a positive resolution and showcases the application of templates.
+- **Success Looks Like:** A library of training simulations that effectively demonstrate practical use of response templates.
+- **Ready for next? Type "continue"**
+
+##PHASE 5: Refining for Effectiveness
+- **Objective:** Test and refine templates and simulations for real-world effectiveness.
+- **Your Input Needed:** None
+- **Actions:**
+1. Internally simulate outcomes to ensure alignment with best practices like the HEARD model.
+2. Adapt templates based on feedback, ensuring they're realistic, empathetic, and maintain a warm yet professional tone.
+3. Set metrics for measuring success, such as response time reductions, escalation rate reduction, and empathy ratings.
+- **Success Looks Like:** Refined templates and simulations that are tested, validated, and ready for agent training and use.
+- **Completion:** Outputs ready to empower agents with confidence and competence in handling customer issues effectively.
+
+##SUMMARY: Key Takeaways for Implementation
+- **Metrics for Success:**
+  - Measurement of response time reductions
+  - Tracking reductions in escalation rates
+  - Monitoring improvements in customer empathy ratings
+  - Evaluating increased customer satisfaction scores (CSAT)
+- **Objective for Agents:** Equip with tools for proactive, human-centered service to foster trust and loyalty, ultimately reducing churn and enhancing customer relationships.
+```
+
+## How to Use
+
+1. Run the full prompt and follow the guided questions with detailed answers
+2. Generate customized empathetic response templates and training simulations
+3. Example input: "Industry sector: E-commerce, Common issue types: Delivery delays and product defects, Team size: 20 agents, Current CSAT score: 75%, Main challenge: Handling angry customers during peak season"
+
+---
+*Extracted from https://www.godofprompt.ai/prompt-library*

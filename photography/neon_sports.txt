@@ -1,0 +1,23 @@
+# Generate Neon Sports Action Photographs
+
+**Source:** God of Prompt (FREE)
+**Category:** Midjourney, Photography, Sports & Fitness
+
+## Description
+Generate stunning futuristic sports photography with this AI prompt, featuring high-contrast neon aesthetics, dynamic action composition, and cinematic lighting effects.
+
+## Prompt
+
+```
+high-contrast futuristic sports photograph of [SPORT ACTION DESCRIPTION], captured mid-turn, body leaning dramatically toward the snow, skis slicing through the surface subject: [ATHLETE DESCRIPTION] clothing and gear: [GEAR DESCRIPTION] action: skier leaning deeply into a high-speed carve, one knee bent sharply, one leg extended, ski poles angled outward, snow surface smooth and slightly reflective beneath the skis lighting and color treatment: [LIGHTING TREATMENT] environment: minimalist slope with smooth white snow curving diagonally across the frame, stark black sky creating a surreal high-contrast environment composition: dynamic diagonal composition emphasizing motion and speed, skier occupying the center of the frame while the snow slope cuts across the lower half of the image style: cinematic sports photography, experimental color grading, futuristic neon aesthetic, high-speed action capture textures: smooth packed snow, glossy helmet surface, reflective ski edges, tight aerodynamic fabric ultra detailed, dramatic lighting, high contrast sports photography, cinematic neon glow, sharp focus, motion energy --chaos 40 --sref 275161546 3377777117 624181534 --ar 3:4 --exp 50 --stylize 300 --p
+```
+
+## Variables
+
+- `[SPORT ACTION DESCRIPTION]` - Description of the sport action
+- `[ATHLETE DESCRIPTION]` - Description of the athlete
+- `[GEAR DESCRIPTION]` - Description of the gear/clothing
+- `[LIGHTING TREATMENT]` - Description of the lighting
+
+---
+*Extracted from https://www.godofprompt.ai/prompt-library*

@@ -1,0 +1,95 @@
+# Create Healthcare Advertisement Panels
+
+**Source:** God of Prompt (FREE)
+**Category:** Nano Banana, Marketing, Advertisements
+
+## Description
+Design professional healthcare advertisements with this AI prompt, featuring consultation, treatment, and result panels for clinic marketing and patient trust.
+
+## Prompt
+
+```json
+{
+  "Objective": "Create a professional 1×3 horizontal advertisement for [CLINIC NAME 1] [HEALTHCARE SPECIALTY 1], emphasizing trust, hygiene, modern equipment, and healthy confident results.",
+  "Canvas": {
+    "Aspect_Ratio": "3:2",
+    "Grid_Structure": "1×3 horizontal panels",
+    "Orientation": "Landscape",
+    "Use_Case": [
+      "Clinic website banners",
+      "Health awareness campaigns",
+      "Social media health ads",
+      "Local service marketing"
+    ]
+  },
+  "Service_Description": {
+    "Category": "[HEALTHCARE SPECIALTY 2] Services",
+    "Core_Services": [
+      "General dental checkups",
+      "Professional teeth cleaning",
+      "Cosmetic dentistry",
+      "Whitening treatments"
+    ],
+    "Clinic_Features": [
+      "Modern sterilized equipment",
+      "Digital dental imaging",
+      "Comfort-focused patient care",
+      "Certified dental professionals"
+    ]
+  },
+  "Background_Design": {
+    "Environment": "Bright modern dental clinic interior",
+    "Color_Theme": ["Soft White", "Light Blue", "Mint Green"],
+    "Lighting": "Clean diffused clinical lighting",
+    "Mood": ["Safe", "Professional", "Healthy"]
+  },
+  "Panels": [
+    {
+      "Panel_Number": 1,
+      "Title": "Friendly Consultation",
+      "Description": "Dentist smiling and speaking with patient in modern clinic room.",
+      "Visual_Details": {
+        "Camera_Angle": "Mid-shot, natural interaction",
+        "Mood": ["Trust", "Comfort"]
+      }
+    },
+    {
+      "Panel_Number": 2,
+      "Title": "Professional Treatment",
+      "Description": "Close-up of dentist performing careful dental procedure with gloves and mask.",
+      "Visual_Details": {
+        "Focus": "Sterile tools and modern equipment",
+        "Lighting": "Bright, clear clinical light",
+        "Mood": ["Precision", "Hygiene"]
+      }
+    },
+    {
+      "Panel_Number": 3,
+      "Title": "Healthy Smile Result",
+      "Description": "Confident adult smiling naturally with bright teeth.",
+      "Visual_Details": {
+        "Lighting": "Soft natural light",
+        "Mood": ["Confidence", "Health", "Satisfaction"]
+      }
+    }
+  ],
+  "Branding": {
+    "Clinic_Name": "[CLINIC NAME 2]",
+    "Tagline": "Your Healthiest Smile Starts Here",
+    "Brand_Personality": "Caring, professional, modern",
+    "Color_Palette": [COLOR PALETTE 1],
+    "Typography": "Clean medical sans-serif"
+  }
+}
+```
+
+## Variables
+
+- `[CLINIC NAME 1]` - Primary clinic name for Objective
+- `[HEALTHCARE SPECIALTY 1]` - Medical specialty for Objective
+- `[HEALTHCARE SPECIALTY 2]` - Medical specialty for Service Description
+- `[CLINIC NAME 2]` - Clinic name for Branding
+- `[COLOR PALETTE 1]` - Array of 3 brand colors
+
+---
+*Extracted from https://www.godofprompt.ai/prompt-library*

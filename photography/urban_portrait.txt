@@ -1,0 +1,22 @@
+# Generate Urban Portrait Photography
+
+**Source:** God of Prompt (FREE)
+**Category:** Midjourney, Photography, Realistic Photography
+
+## Description
+Generate stunning street photography portraits with this AI prompt, featuring urban settings, golden hour lighting, cinematic composition, and professional editorial styling.
+
+## Prompt
+
+```
+Street photography of [SUBJECT DESCRIPTION], wearing [STATEMENT WARDROBE], standing confidently on a busy urban street in [CITY SETTING], natural pose with subtle attitude, expressive eyes, soft confident smile, cinematic composition, candid yet editorial feel, city background slightly blurred, pedestrians and storefront lights behind her, golden hour lighting casting warm highlights on her hair and jacket, soft shadows, shallow depth of field, 85mm lens, f/1.8, realistic skin tones, high detail, natural makeup, symmetrical facial features, glossy leather texture, dynamic urban atmosphere, Vogue-style street portrait, ultra-realistic, high resolution, sharp focus on subject, soft bokeh background --chaos 40 --ar 3:4 --exp 50 --sref 170932194 --profile --stylize 300
+```
+
+## Variables
+
+- `[SUBJECT DESCRIPTION]` - Description of the subject/person
+- `[STATEMENT WARDROBE]` - Description of the clothing/outfit
+- `[CITY SETTING]` - The city/urban location
+
+---
+*Extracted from https://www.godofprompt.ai/prompt-library*

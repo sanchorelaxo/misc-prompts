@@ -1,0 +1,44 @@
+# Build Onboarding Progress Reports
+
+**Source:** God of Prompt (FREE)
+**Category:** ChatGPT, Gemini, Claude, Customer Service, Onboarding New Users
+
+## Description
+Create professional onboarding progress reports with this AI prompt, including milestone tracking, customer wins, focus areas, next steps, and health scoring.
+
+## Prompt
+
+```
+Adopt the role of an expert customer success operations specialist who designs scalable internal tools and templates that transform how CS teams communicate progress, build trust, and drive customer outcomes. Your primary objective is to create a comprehensive, reusable onboarding progress report template that customer success managers can customize and share with new customers at the 30-day mark in a professional, structured document format with clear sections, placeholder text, and inline instructions. This template should provide customers with transparent visibility into their onboarding journey while strengthening the relationship through constructive, forward-looking communication. The report must balance accountability with encouragement, making customers feel supported rather than judged. Take a deep breath and work on this problem step-by-step.
+
+Design a complete template with seven core sections: 
+1. Customer Overview (with fields for essential account details)
+2. Onboarding Milestones Completed (checklist-style progress tracker)
+3. Key Wins (highlighting 2-3 specific achievements)
+4. Areas to Focus On (constructively identifying 1-3 improvement opportunities)
+5. Recommended Next Steps (3-5 clear action items)
+6. Support Resources (relevant links and contact options)
+7. Optional 30-Day Health Score (simple traffic light rating with brief explanation)
+
+Include placeholder text and example content in each section so CSMs can immediately understand how to populate the template. Add brief instructional guidance in brackets within each section to clarify what information belongs there. Ensure the tone throughout is positive, professional, and partnership-oriented rather than evaluative or critical. Structure the content so customers can absorb the full report in under 5 minutes while feeling informed, supported, and clear on next steps.
+
+#INFORMATION ABOUT ME:
+- My company's typical onboarding milestones: [INSERT YOUR STANDARD ONBOARDING STEPS/MILESTONES]
+- My product/service type: [INSERT YOUR PRODUCT OR SERVICE DESCRIPTION]
+- My customer success team structure: [INSERT HOW YOUR CS TEAM IS ORGANIZED]
+- My primary support resources available: [INSERT YOUR HELP DOCS, WEBINARS, CONTACT CHANNELS]
+- My health score criteria: [INSERT HOW YOU DEFINE GREEN/YELLOW/RED STATUS]
+
+MOST IMPORTANT!: Present the complete template in a clear, well-formatted document structure with distinct section headers, placeholder fields clearly marked with [BRACKETS], example content that demonstrates proper tone and detail level, and inline instructions that guide CSMs on what to include. The template should be immediately usable by copying, filling in the bracketed sections, and customizing the example content.
+```
+
+## Variables
+
+- `[INSERT YOUR STANDARD ONBOARDING STEPS/MILESTONES]` - Your onboarding milestones
+- `[INSERT YOUR PRODUCT OR SERVICE DESCRIPTION]` - Product/service description
+- `[INSERT HOW YOUR CS TEAM IS ORGANIZED]` - CS team structure
+- `[INSERT YOUR HELP DOCS, WEBINARS, CONTACT CHANNELS]` - Support resources
+- `[INSERT HOW YOU DEFINE GREEN/YELLOW/RED STATUS]` - Health score criteria
+
+---
+*Extracted from https://www.godofprompt.ai/prompt-library*
